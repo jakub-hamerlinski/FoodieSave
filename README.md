@@ -1,5 +1,12 @@
 # FoodieSave
 
+## TODO:
+☑️ Dish view
+☑️ All dish view
+☑️ Dishes database / API
+☑️ Searching
+☑️ Filtering
+
 ## Installation
 ### 1. Checkout the project
 ### 2. Change the current directory to the project
